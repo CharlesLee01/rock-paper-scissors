@@ -12,8 +12,10 @@ Scissors > Paper<br>
 Note: The player wins the game by choosing the option before the ">" symbol.
 
 ## Keyboard input:
-r - Rock
-p - Paper
-s - Scissors
-Backspace - Reset
-a - Auto play
+r - Rock<br>
+p - Paper<br>
+s - Scissors<br>
+a - Auto play<br>
+Backspace - Reset<br>
+
+![Local Image](images/main.PNG)
