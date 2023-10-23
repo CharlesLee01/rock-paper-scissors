@@ -30,6 +30,12 @@ let score = JSON.parse(localStorage.getItem('score')) || {
       autoPlay();
     } else if (event.key === 'Backspace') {
       displayResetConfirmation();
+    } else if (event.key === 'r') {
+      playGame("rock");
+    } else if (event.key === 's') {
+      playGame("scissors");
+    } else if (event.key === 'p') {
+      playGame("paper");
     }
   });
 
