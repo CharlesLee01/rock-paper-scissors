@@ -1,5 +1,7 @@
 # Rock Paper Scissors!
 
+![Local Image](images/main.PNG)
+
 ## Description:
 A fun traditional guessing game. 
 
@@ -18,4 +20,3 @@ s - Scissors<br>
 a - Auto play<br>
 Backspace - Reset<br>
 
-![Local Image](images/main.PNG)
